@@ -1,4 +1,4 @@
-# CS406
+# CS406 - Xử lý ảnh và ứng dụng
 
 #
 <!-- Badge -->
@@ -8,4 +8,4 @@
 | Name      | Email                  | Github                                                                                                                      |
 | --------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Phạm Thành Luân | 19520154@gm.uit.edu.vn | [![](https://img.shields.io/badge/cavangcoder-%2324292f.svg?style=flat-square&logo=github)](https://github.com/cavangcoder) |
-| Huỳnh Văn Hùng     | 19521564@gm.uit.edu.vn | [![](https://img.shields.io/badge/19521564-%2324292f.svg?style=flat-square&logo=github   )](https://github.com/19520307   ) |
+| Huỳnh Văn Hùng     | 19521564@gm.uit.edu.vn | [![](https://img.shields.io/badge/19521564-%2324292f.svg?style=flat-square&logo=github   )](https://github.com/19521564   ) |
